@@ -1,0 +1,27 @@
+{
+  "name": "uploadvideosyoutube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bug-killer": "^4.4.4",
+    "google-auth-library": "^5.10.1",
+    "googleapis": "^48.0.0",
+    "lien": "^3.3.0",
+    "opn": "^6.0.0",
+    "pretty-bytes": "^5.3.0",
+    "r-json": "^1.2.9",
+    "youtube-api": "^2.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://manzoor1996alam@bitbucket.org/thinktacwebdev/upload-videos-youtube.git"
+  },
+  "author": "manzoor alam",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/thinktacwebdev/upload-videos-youtube#readme"
+}
